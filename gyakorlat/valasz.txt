@@ -1,0 +1,14 @@
+Máj Levente
+
+Git -ben programozással csinálsz amit akarsz, a Githubra pedig ezt feltöltöd mint megosztott projekt vagy bármi
+Tárolóhely
+Ha többen akarnak dolgozni egy projekten, a githubbal megoldható.
+Átmeneti tárolóhely
+
+Verziókövetési parancsok:
+git commit
+git log
+git status
+git add
+git checkout
+git log --oneline
